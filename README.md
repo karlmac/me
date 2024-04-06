@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Karlmac
 - 👀 I’m interested in Software Development and Data Analytics
-- 🌱 I’m currently learning Python and React.js
+- 🌱 I’m currently learning Python and Cloud Computing
 <!-- - 💞️ I’m looking to collaborate on -->
 <!-- - 📫 How to reach me ... -->
 
